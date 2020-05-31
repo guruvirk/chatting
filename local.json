@@ -1,0 +1,5 @@
+{
+    "host": "mongodb://localhost:27017/chating",
+    "apiUrl": "http://localhost:8080/api",
+    "webUrl": "http://localhost:4200"
+}
