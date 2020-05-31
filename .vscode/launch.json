@@ -16,15 +16,6 @@
                 "NODE_ENV": "local"
             },
             "program": "${workspaceFolder}\\server.js"
-        },
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "Cron",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "program": "${workspaceFolder}\\cron.js"
         }
 
     ]
